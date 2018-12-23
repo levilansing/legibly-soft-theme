@@ -1,0 +1,26 @@
+{
+    "name": "legibly-soft-theme",
+    "displayName": "Legibly Soft Theme",
+    "publisher": "LeviLansing",
+    "description": "",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/levilansing/legibly-soft-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Legibly Soft",
+                "uiTheme": "vs",
+                "path": "./themes/legibly-soft-color-theme.json"
+            }
+        ]
+    }
+}
