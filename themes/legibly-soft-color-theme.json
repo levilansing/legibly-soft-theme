@@ -193,7 +193,8 @@
 				"entity.name.type",
 				"entity.name.type.interface",
 				"meta.interface",
-				"meta.type.annotation"
+				"meta.type.annotation",
+				"meta.type meta.brace"
 			],
 			"settings": {
 				"foreground": "#159b58",
@@ -328,8 +329,6 @@
 				"meta.definition.declaration",
 				"meta.method.declaration entity.name.function",
 				"meta.field.declaration entity.name.function",
-				"support.class.component",
-				"entity.name.type.class",
 				"variable.other.enummember"
 			],
 			"settings": {
@@ -392,6 +391,17 @@
 			],
 			"settings": {
 				"foreground": "#1c85b6",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Classes Types",
+			"scope": [
+				"support.class.component",
+				"entity.name.type.class",
+			],
+			"settings": {
+				"foreground": "#159b58",
 				"fontStyle": "bold"
 			}
 		},
@@ -500,7 +510,7 @@
 				"punctuation.definition.tag.end"
 			],
 			"settings": {
-				"foreground": "#6b6b6b",
+				"foreground": "#1c85b6",
 				"fontStyle": "bold"
 			}
 		},
@@ -523,7 +533,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#6b6b6b"
+				"foreground": "#1c85b6"
 			}
 		},
 		{
