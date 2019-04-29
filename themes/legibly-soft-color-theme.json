@@ -416,7 +416,7 @@
 			"name": "Strings",
 			"scope": [
 				"string.quoted",
-				"string punctuation"
+				"string.template",
 			],
 			"settings": {
 				"foreground": "#db8739",
@@ -447,7 +447,7 @@
 				"string.regexp",
 			],
 			"settings": {
-				"foreground": "#c97a30"
+				"foreground": "#db8739"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#c97a30",
+				"foreground": "#db8739",
 				"fontStyle": "bold"
 			}
 		},
@@ -781,7 +781,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#c97a30"
+				"foreground": "#db8739"
 			}
 		},
 		{
