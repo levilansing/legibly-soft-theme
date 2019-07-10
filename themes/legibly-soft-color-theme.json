@@ -26,6 +26,11 @@
 		// borders
 		"editorGroup.border": "#b6afa3",
 		"panel.border": "#b6afa3",
+		// panel
+		"panel.background": "#e6e4df",
+		"panelTitle.activeBorder": "#27251f90",
+		"panelTitle.activeForeground": "#27251f",
+		"panelTitle.inactiveForeground": "#27251fA0",
 		// sidebar
 		"sideBar.border": "#b6afa3",
 		"sideBar.background": "#d8d5ce",
