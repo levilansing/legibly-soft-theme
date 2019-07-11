@@ -373,7 +373,6 @@
 			"name": "Decorator Punctuation",
 			"scope": [
 				"punctuation.decorator",
-				"meta.brace",
 				"meta.decorator meta.brace",
 			],
 			"settings": {
@@ -434,7 +433,7 @@
 				"string.template",
 			],
 			"settings": {
-				"foreground": "#db8739",
+				"foreground": "#d38134",
 				"fontStyle": ""
 			}
 		},
@@ -444,7 +443,7 @@
 				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#db8739",
+				"foreground": "#d38134",
 				"fontStyle": "bold"
 			}
 		},
@@ -462,7 +461,7 @@
 				"string.regexp",
 			],
 			"settings": {
-				"foreground": "#db8739"
+				"foreground": "#d38134"
 			}
 		},
 		{
@@ -503,7 +502,7 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#db8739",
+				"foreground": "#d38134",
 				"fontStyle": "bold"
 			}
 		},
@@ -511,7 +510,7 @@
 			"name": "Punctuation",
 			"scope": [
 				"meta.objectliteral punctuation.definition.block",
-				"meta.array.literal"
+				"meta.array.literal meta.brace"
 			],
 			"settings": {
 				"foreground": "#167faf",
@@ -796,7 +795,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#db8739"
+				"foreground": "#d38134"
 			}
 		},
 		{
