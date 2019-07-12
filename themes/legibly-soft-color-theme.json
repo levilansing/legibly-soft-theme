@@ -382,7 +382,6 @@
 		{
 			"name": "Classes",
 			"scope": [
-				"entity.other.inherited-class",
 				"support.class"
 			],
 			"settings": {
@@ -395,6 +394,7 @@
 			"scope": [
 				"support.class.component",
 				"entity.name.type.class",
+				"entity.other.inherited-class",
 			],
 			"settings": {
 				"foreground": "#159b58",
