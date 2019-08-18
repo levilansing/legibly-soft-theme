@@ -194,6 +194,8 @@
 		{
 			"name": "Types",
 			"scope": [
+				"keyword.type.cs",
+				"storage.type.cs",
 				"support.type",
 				"entity.name.type",
 				"entity.name.type.interface",
