@@ -292,6 +292,7 @@
 			"name": "catch-all / base text",
 			"scope": [
 				"meta.block",
+				"meta.template.expression meta.brace.round"
 			],
 			"settings": {
 				"foreground": "#494949"
