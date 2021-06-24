@@ -22,7 +22,11 @@
 		"editorInfo.foreground": "#6e6e6e80",
 		"editorWidget.background": "#f1f1ed",
 		"editorSuggestWidget.background": "#f1f1ed",
-		"editorSuggestWidget.selectedBackground": "#bebbaf62",
+		"editorSuggestWidget.foreground": "#494949",
+		"editorSuggestWidget.selectedForeground": "#ffffffdd",
+		"editorSuggestWidget.focusHighlightForeground": "#ffffff",
+		"editorSuggestWidget.selectedBackground": "#0584be",
+		"editorSuggestWidget.highlightForeground": "#0584be",
 		// borders
 		"editorGroup.border": "#b6afa3",
 		"panel.border": "#b6afa3",
@@ -48,9 +52,14 @@
 		"editorGroupHeader.tabsBackground": "#b6afa3",
 		"editorGroup.dropBackground": "#bebbaf62",
 		// lists
+		"list.focusHighlightForeground": "#ffffff",
+		"list.highlightForeground": "#0584be",
+		"list.activeSelectionBackground": "#0584be",
+		"list.activeSelectionForeground": "#ffffffdd",
 		"list.inactiveSelectionBackground": "#ffffff75",
 		"list.hoverBackground": "#e7e5e08c",
 		"list.dropBackground": "#e7e5e0d5",
+		"quickInputList.focusForeground": "#ffffffEE",
 		"editor.lineHighlightBorder": "#00000000",
 		"editor.lineHighlightBackground": "#524f3e0c",
 		// titlebar
